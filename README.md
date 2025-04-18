@@ -1,4 +1,4 @@
-# Bee‑Forage Adaptive Noise for Streaming 3‑SAT 🐝
+# Bee‑Forage Adaptive Noise for Streaming 3‑SAT 
 
 A nature‑inspired add‑on to Lars Wood’s *“Neutral‑Atom 3SAT Streaming”* stack.  
 It mimics honey‑bee foraging: crank the QPU’s noise when many clauses remain
